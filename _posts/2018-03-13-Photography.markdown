@@ -2,6 +2,7 @@
 layout: post
 title:  "Photography!"
 date:   2018-03-13 10:17:55 +0530
+comments: true
 categories: jekyll update
 ---
 Photography is something that gives me the freedom to express myself and show the world from my own perspective !
