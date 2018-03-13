@@ -5,7 +5,7 @@ date:   2018-03-12 10:17:55 +0530
 comments: true
 categories: jekyll update
 ---
-Travelling !
+
 Travelling is something most people enjoy. It is not just the journey but the experiences you build !
 you can interact with various kinds of people and get introduced to various cultures.. and lets not forget about the various kinds of food you get to eat ! well that people live for! Do you enjoy travelling like me ? Which is the place you have visited which will stay with you for ever in the form of memories? Each trip i take i form many memories i cherish so much !
 
