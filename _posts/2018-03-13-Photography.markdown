@@ -18,7 +18,7 @@ This is one of the picture i took at Kala Ghoda ! I noticed her sitting and lost
 
 
 <img width="694" alt="screen shot 2018-03-13 at 3 41 29 pm" src="https://user-images.githubusercontent.com/36836477/37336260-def9be7c-26d6-11e8-9abd-9b92e04d9bb1.png">
-This too is from Kala Ghoda.
+<br/>This too is from Kala Ghoda.
 
 there are many more pics to come!
 I Have just recently started so if anyone has any tips i am eager to hear them !
