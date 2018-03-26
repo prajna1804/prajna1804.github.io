@@ -21,6 +21,8 @@ This is one of the picture i took at Kala Ghoda ! I noticed her sitting and lost
 <img width="694" alt="screen shot 2018-03-13 at 3 41 29 pm" src="https://user-images.githubusercontent.com/36836477/37336260-def9be7c-26d6-11e8-9abd-9b92e04d9bb1.png">
 <br/>This too is from Kala Ghoda.
 
+
+
 The next few pictures are the next i took on my vacation to Sri Lanka that i took on my phone
 ![img_1122](https://user-images.githubusercontent.com/36836477/37343416-83809b26-26ed-11e8-9222-6c38ffb6039d.JPG)
 
