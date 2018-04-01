@@ -21,7 +21,7 @@ It went on to become this:
 <img width="502" alt="screen shot 2018-03-13 at 3 39 24 pm" src="https://user-images.githubusercontent.com/36836477/38169977-c779e2bc-3596-11e8-87ae-d0dcda480eff.png">
 
 At the end this is how it turned up to be.
-[letter copy.pdf](https://github.com/prajna1804/prajna1804.github.io/files/1866113/letter.copy.pdf)
+![letter copy](https://user-images.githubusercontent.com/36836477/38170044-987e2886-3598-11e8-81ae-e1665902c327.jpg)
 
 You guys should try it out it is really fun and experimental at the same time.
 
