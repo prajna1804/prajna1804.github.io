@@ -6,7 +6,7 @@ comments: true
 categories: jekyll update
 ---
 
-I learnt how to use Adobe photoshop when I joint NMIMS and I am so happy that I did.
+I learnt how to use Adobe Illustrator when I joint NMIMS and I am so happy that I did.
 It is such an amazing way of illustrating and i often just go and start making random illustrations and exploring.
 It helps me relax and calms me down.
 
@@ -26,4 +26,3 @@ These two i made at home by referring to the net and  changing them and making t
 ![tp work](https://user-images.githubusercontent.com/36836477/38169859-23838ef4-3593-11e8-92a8-adb0a0848435.jpg)
 
 ![love](https://user-images.githubusercontent.com/36836477/38169864-3820c1b0-3593-11e8-83ef-a66dbc5185d6.jpg)
- 
